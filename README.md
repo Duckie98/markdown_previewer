@@ -1,6 +1,6 @@
 # This is my 'Markdown_Previewer' Front-end project using Reactjs
 
-You could check out this project at this link: https://duckie98.github.io/markdown_previewer/,
+You could check out this project at this link: https://viet-quocnguyen.github.io/markdown_previewer/
 
 ## Available Scripts
 
